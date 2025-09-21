@@ -1,3 +1,5 @@
+// Tests unitaires écrits par l'enseignant. Ne modifiez pas ce fichier.
+
 import {messageAccueil} from '../index';
 
 describe('Message d’accueil personnalisé ', () => {

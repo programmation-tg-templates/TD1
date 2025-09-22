@@ -4,7 +4,8 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "test": "jest --watchAll"
+    "test": "jest",
+    "watch": "jest --watchAll"
   },
   "devDependencies": {
     "@types/jest": "^30.0.0",
